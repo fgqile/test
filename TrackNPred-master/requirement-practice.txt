@@ -1,0 +1,21 @@
+
+pandas
+
+
+
+##pip
+ignite #https://www.freesion.com/article/50971409181/
+
+
+requests
+numpy
+#PyQt5
+sklearn
+
+
+#tensorflow
+scipy
+#matplotlib
+#opencv-python
+
+
